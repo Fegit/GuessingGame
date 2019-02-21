@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\josua\documents\visual studio 2017\projects\guessinggame\guessinggame\game.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+  Generating Code...
+  GuessingGame.vcxproj -> C:\Users\Josua\Documents\Visual Studio 2017\Projects\GuessingGame\Debug\GuessingGame.exe

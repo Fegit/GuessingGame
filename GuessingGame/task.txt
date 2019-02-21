@@ -1,0 +1,11 @@
+Guessing game. Write a c++ game that asks the user to guess a number between two numbers. 
+If you guessed correctly, it will say you win. If your too high or too low it will also let you know.
+
+
+- score X -> record system (with 3 letter alias) -> savefile
+
+
+BUGS:
+- tries dont reset after the game ends - FIXED
+- letters(input) crash program mid-game // check for type of input - FIXED
+- more than one char(input) does strange things to menu - FIXED
